@@ -3,6 +3,6 @@ package exercitiiGIT;
 public class Main {
 	public static void main(String args[])
 	{
-		System.out.println("maimuta");
+		System.out.println("AL doilea commit");
 	}
 }
